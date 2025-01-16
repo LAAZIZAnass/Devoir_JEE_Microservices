@@ -60,11 +60,11 @@ pour interagir avec les microservices Commandes et Produits.
 
 3. Page de commandes recentes : 10
 
-![Page commanedes  recentes(20)](Screenshots/commandes/recentes10V.PNG) 
+![Page commandes  recentes(20)](Screenshots/recentes10V.PNG) 
 
 4. Page de commandes recentes : 20
 
-![Page commanedes recentes (10)](Screenshots/recentes20.PNG) 
+![Page commandes recentes (10)](Screenshots/recentes20.PNG) 
 
 5. status up:
 
@@ -92,11 +92,11 @@ pour interagir avec les microservices Commandes et Produits.
 
 ![Eureka](Screenshots/eurika.PNG)
 
-1. l'api gateway commandes: localhost:8888/commandes
+1. l'api gateway commandes: localhost:8888
 
 ![8888](Screenshots/gateway_acces_commandes.PNG)
 
-1. l'api gateway produits: localhost:8888/commandes
+1. l'api gateway produits: localhost:8888
 
 ![8888](Screenshots/gateway_products.PNG)
 
