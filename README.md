@@ -50,5 +50,5 @@ pour interagir avec les microservices Commandes et Produits.
 ##  Etude  de cas 1:
 
  1. Page de commande : localhost:8082/commandes
-![Page commanedes](Screenshots/commandes.png)
+![Page commanedes](Screenshots/commandes.PNG)
 
