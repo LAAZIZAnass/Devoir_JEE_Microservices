@@ -47,9 +47,68 @@ Envoyez des requêtes GET/POST/PUT/DELETE aux API via l'API Gateway
 pour interagir avec les microservices Commandes et Produits.
 
 ### Screenshots
+
 ##  Etude  de cas 1:
 
- 1. Page de commandes : localhost:8082/commandes
+1. Page de commandes : localhost:8082/commandes
 
 ![Page commanedes](Screenshots/commandes.PNG)
+
+2. Configuration commande-service dans git
+
+![9999](Screenshots/commande-configit.PNG)
+
+3. Page de commandes recentes : 10
+
+![Page commanedes  recentes(20)](Screenshots/commandes/recentes10V.PNG) 
+
+4. Page de commandes recentes : 20
+
+![Page commanedes recentes (10)](Screenshots/recentes20.PNG) 
+
+5. status up:
+
+![lorque il'ya des commandes dans la table](Screenshots/UP.PNG) 
+
+6. status Down:
+
+ ![Sinon](Screenshots/DOWN.PNG) 
+
+7. Page de produits : localhost:8081/commandes
+
+![Page produits](Screenshots/PRODUITS.PNG)
+
+8. Configuration produit-service dans git
+
+![9999](Screenshots/produit-configgit.PNG)
+
+##  Etude  de cas 2:
+
+1. Page de commandes + produit_Id : localhost:8082/commandes
+
+![Page commanedes_pID](Screenshots/commandes_idPro.PNG)
+
+2. Les microservice enregistrés auprès d’Eureka
+
+![Eureka(Screenshots/eurika.PNG)
+
+1. l'api gateway commandes: localhost:8888/commandes
+
+![8888](Screenshots/gateway_acces_commandes.PNG)
+
+1. l'api gateway produits: localhost:8888/commandes
+
+![8888](Screenshots/gateway_products.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
 
