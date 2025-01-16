@@ -45,3 +45,10 @@ cd Devoir_JEE_Microservices
 
 Envoyez des requêtes GET/POST/PUT/DELETE aux API via l'API Gateway 
 pour interagir avec les microservices Commandes et Produits.
+
+### Screenshots
+##  Etude  de cas 1:
+
+ 1. Page de commande : localhost:8082/commandes
+![Page commanedes](Screenshots/commandes.png)
+
