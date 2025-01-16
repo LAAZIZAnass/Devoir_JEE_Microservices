@@ -35,7 +35,6 @@ L'objectif de cette deuxième étude de cas est de :
 
 1. Clonez ce dépôt sur votre machine locale :
 git clone https://github.com/LAAZIZAnass/Devoir_JEE_Microservices.git
-
 cd Devoir_JEE_Microservices
 3. Exécutez les services dans l'ordre suivant 
  **discovery-service**
