@@ -72,7 +72,7 @@ pour interagir avec les microservices Commandes et Produits.
 
 6. status Down:
 
- ![Sinon](Screenshots/DOWN.PNG) 
+ ![Sinon](Screenshots/Down.PNG) 
 
 7. Page de produits : localhost:8081/commandes
 
@@ -90,7 +90,7 @@ pour interagir avec les microservices Commandes et Produits.
 
 2. Les microservice enregistrés auprès d’Eureka
 
-![Eureka(Screenshots/eurika.PNG)
+![Eureka](Screenshots/eurika.PNG)
 
 1. l'api gateway commandes: localhost:8888/commandes
 
