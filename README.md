@@ -104,7 +104,11 @@ pour interagir avec les microservices Commandes et Produits.
 
 
 3.test avec postman lorsque timeout est inférieur de 5s 
+
+
 ![Resilience4j](Screenshots/timeout1.PNG)
+
+
 
 ![Resilience4j](Screenshots/timeout12.PNG)
 
