@@ -98,9 +98,23 @@ pour interagir avec les microservices Commandes et Produits.
 
 ![8888](Screenshots/gateway_acces_commandes.PNG)
 
-1. l'api gateway produits: localhost:8888
+2. l'api gateway produits: localhost:8888
 
 ![8888](Screenshots/gateway_products.PNG)
+
+
+3.test avec postman lorsque timeout est inférieur de 5s 
+![Resilience4j](Screenshots/time.PNG)
+
+![Resilience4j](Screenshots/gateway_products.PNG)
+
+4- test avec postman lorsque timeout est supérieur de 5s 
+
+![Resilience4j](Screenshots/gateway_products.PNG)
+
+![Resilience4j](Screenshots/gateway_products.PNG)
+
+   
 
 
 
